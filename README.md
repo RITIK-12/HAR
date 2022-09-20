@@ -28,3 +28,4 @@
 * Model was trained on Google’s Collaboratory Platform  for 20 epochs.
 * Categorical Cross Entropy was loss function used along with Adam optimizer and Accuracy as metrics.
 * Model gave accuracy of 99% on training dataset and 89% on validation dataset.
+<img width="474" alt="Screenshot 2022-09-20 at 5 15 53 PM" src="https://user-images.githubusercontent.com/54806252/191249373-6a90774c-e520-48e8-9b74-22b998d04370.png">
