@@ -22,3 +22,4 @@
 <img width="1485" alt="Screenshot 2022-09-20 at 4 44 45 PM" src="https://user-images.githubusercontent.com/54806252/191243852-39bafd6f-eed6-40fe-b54e-0cbbce2484c3.png">
 
 ### ✯ Multiple Modal Architecture
+<img width="1218" alt="Screenshot 2022-09-20 at 4 54 52 PM" src="https://user-images.githubusercontent.com/54806252/191247290-db808501-e8b6-416f-8c14-a726ecbd0692.png">
