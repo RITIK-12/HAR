@@ -23,3 +23,8 @@
 
 ### ✯ Multiple Modal Architecture
 <img width="1218" alt="Screenshot 2022-09-20 at 4 54 52 PM" src="https://user-images.githubusercontent.com/54806252/191247290-db808501-e8b6-416f-8c14-a726ecbd0692.png">
+
+### ✯ Model Training
+* Model was trained on Google’s Collaboratory Platform  for 20 epochs.
+* Categorical Cross Entropy was loss function used along with Adam optimizer and Accuracy as metrics.
+* Model gave accuracy of 99% on training dataset and 89% on validation dataset.
