@@ -8,3 +8,11 @@
 * To overcome the weaknesses, device-free solutions utilizing cameras and Radio-Frequency (RF) signals have later come into view.
 * Unlike camera based solutions, RF-based approaches do not raise privacy concerns, and are not affected by temperature or lighting conditions.
 * Therefore, RF-based solution has become a promising candidate for indoor HAR, leading to a large amount of research contributions recently
+
+### Methodology
+
+### Dataset Preparation
+*Original dataset was acquired from [1].
+* Three different sensors and a total of 11 diﬀerent activities and ambulatory gaits were considered, as listed in the Figure 1.
+* The images from the respective sensors were resized to 128x128.
+* Then the data from the respective sensors was splitted into train,validation and test sets.
