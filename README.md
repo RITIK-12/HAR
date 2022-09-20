@@ -17,3 +17,8 @@
 * Three different sensors and a total of 11 diﬀerent activities and ambulatory gaits were considered, as listed in the Figure 1.
 * The images from the respective sensors were resized to 128x128.
 * Then the data from the respective sensors was splitted into train,validation and test sets.
+
+### ✯ Single Modal Model Architecture
+<img width="1485" alt="Screenshot 2022-09-20 at 4 44 45 PM" src="https://user-images.githubusercontent.com/54806252/191243852-39bafd6f-eed6-40fe-b54e-0cbbce2484c3.png">
+
+### ✯ Multiple Modal Architecture
